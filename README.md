@@ -1,3 +1,2 @@
 # designpattern
-design pattern
-commpleted to sync with git
+Example source code for implement design pattern.
