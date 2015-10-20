@@ -26,7 +26,7 @@ namespace Prototype
 
         public ProductPrototype GetProduct(string key)
         {
-            return (ProductPrototype)this.products[key];
+            return this.products[key];
         }
     }
 }
