@@ -1,0 +1,4 @@
+D:\Test Projects\DesignPattern\Adapter2\bin\Debug\Adapter2.pdb
+D:\Test Projects\DesignPattern\Adapter2\obj\Debug\Adapter2.pdb
+D:\Test Projects\DesignPattern\Adapter2\bin\Debug\Adapter2.exe
+D:\Test Projects\DesignPattern\Adapter2\obj\Debug\Adapter2.exe
