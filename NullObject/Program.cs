@@ -12,7 +12,7 @@ namespace NullObject
     {
         static void Main(string[] args)
         {
-            ICustomer customer = CustomerFactory.getCustomer("cc");
+            ICustomer customer = CustomerFactory.getCustomer("aa");
         }
     }
 }
