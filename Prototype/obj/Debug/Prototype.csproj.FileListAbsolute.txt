@@ -3,3 +3,4 @@ D:\Test Projects\designpatterngit\designpattern\Prototype\bin\Debug\Prototype.ex
 D:\Test Projects\designpatterngit\designpattern\Prototype\bin\Debug\Prototype.pdb
 D:\Test Projects\designpatterngit\designpattern\Prototype\obj\Debug\Prototype.exe
 D:\Test Projects\designpatterngit\designpattern\Prototype\obj\Debug\Prototype.pdb
+D:\Test Projects\designpatterngit\designpattern\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
